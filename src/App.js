@@ -9,7 +9,7 @@ import Uses from './uses';
 
 function App() {
   return (
-    <Router basename="/gwen-portfolio">
+    <Router basename="/gwen-new-portfolio">
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/home" element={<Home />} />
