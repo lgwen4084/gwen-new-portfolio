@@ -1,9 +1,9 @@
     // src/Projects.jsx
-    import React from 'react';
-    import { motion } from 'framer-motion';
-    import Header from './header';
-    import Footer from './footer';
-    import './Projects.css';
+import React from 'react';
+import { motion } from 'framer-motion';
+import Header from './header';
+import Footer from './footer';
+import './index.css';
 
     const PUBLIC = process.env.PUBLIC_URL;
 
